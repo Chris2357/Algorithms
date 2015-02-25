@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Week1.Test.PercolationTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2015-02-24T11:40:32" hostname="UKLTD16852" time="0.015">
+  <properties/>
+  <testcase name="testPercolation1" classname="Week1.Test.PercolationTest" time="0.013"/>
+  <testcase name="testPercolates" classname="Week1.Test.PercolationTest" time="0.0"/>
+  <testcase name="testOpen" classname="Week1.Test.PercolationTest" time="0.0"/>
+  <testcase name="testIsFull" classname="Week1.Test.PercolationTest" time="0.0"/>
+  <testcase name="testIsOpen" classname="Week1.Test.PercolationTest" time="0.0"/>
+  <system-out><![CDATA[[[0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0]]
+I assigned to J
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
